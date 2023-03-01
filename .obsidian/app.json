@@ -1,0 +1,9 @@
+{
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "showFrontmatter": true,
+  "spellcheck": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "7. Random",
+  "attachmentFolderPath": "8. Images"
+}

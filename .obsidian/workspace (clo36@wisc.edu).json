@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "1c3d097483fad518",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd7e293be35e6bc8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3656ab5134dd9c6c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Kanban.md"
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "a308fcd470bad9b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Tasks/ML-Ops platform.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6d6acf4ebabe1a4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e80ace0e8f52d78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4926cdc8bbeb3b5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e12b94039c458fb8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "0. Tasks/ML-Ops platform.md"
+              }
+            }
+          },
+          {
+            "id": "9ff68d479a602eb6",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "677d1eacc2238c7f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "0. Tasks/ML-Ops platform.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 240.5
+  },
+  "right": {
+    "id": "e953209c77ceb043",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc64bb34bd475ec7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56c011e387db09a5",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "97718f588e7ed38f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "0. Tasks/ML-Ops platform.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0cb1487c8422fa22",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "19ad282ae01b54b2",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "f5280c2c3f2b7b15",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#HTCondor",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 280.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "daily-notes:Open today's daily note": false,
+      "graph:Open graph view": true,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "switcher:Open quick switcher": true,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "a308fcd470bad9b3",
+  "lastOpenFiles": [
+    "Kanban.md",
+    "0. Tasks/ML-Ops platform.md",
+    "1. Meetings/Meeting with Kyle.md",
+    "2. Topics/ML Ops platforms.md",
+    "2. Topics/AmFam funding initiative.md",
+    "3. Daily/2023-02-16.md",
+    "1. Meetings/Meeting with Finn.md",
+    "2. Topics/DSI town hall.md",
+    "3. Daily/2023-02-14.md",
+    "Meeting notes.md"
+  ]
+}
